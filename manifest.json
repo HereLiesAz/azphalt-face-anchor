@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Pins the caption to the bottom of the detected face, so it follows the speaker around the frame.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
